@@ -45,5 +45,3 @@ To perform and visualize the convolution of two continuous/discrete-time functio
 - Final convolution output plotted over time.
 
 ---
-
-Let me know if you'd like to include sample MATLAB code or result images in this README!
